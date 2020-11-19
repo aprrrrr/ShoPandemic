@@ -1,0 +1,6 @@
+Report generated on 2020/11/10 6:19:05
+
+Total Report:
+Here are my metrics:
+Times player throw directly in cart: 3
+Total time players were too close: 0
